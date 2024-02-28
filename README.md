@@ -30,7 +30,7 @@ This project aims to predict the price of used cars using machine learning techn
 
 2. Run the main script:
    ```
-   python main.py
+   jupyter notebook car.ipynb
    ```
 
 3. Follow the prompts to input car details and obtain price prediction results.
